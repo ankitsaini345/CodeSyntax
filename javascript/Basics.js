@@ -434,3 +434,5 @@ val = window.navigator.vendor;
 val = window.navigator.language;
 console.log(val)
 
+
+
